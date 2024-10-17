@@ -1,0 +1,16 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Autres fichiers à ignorer
+*.csproj
+*.sln
+.vscode/
+.DS_Store
+*.userprefs
+.idea/
